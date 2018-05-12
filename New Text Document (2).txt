@@ -1,0 +1,11 @@
+Sed Command in Linux/Unix with examples
+SED command in UNIX is stands for stream editor and it can perform lot’s of function on file like, searching, find and replace, insertion or deletion. Though most common use of SED command in UNIX is for substitution or for find and replace. By using SED you can edit files even without opening it, which is much quicker way to find and replace something in file, than first opening that file in VI Editor and then changing it.
+
+SED is a powerful text stream editor. Can do insertion, deletion, search and replace(substitution).
+SED command in unix supports regular expression which allows it perform complex pattern matching.
+
+On the internet you will find plenty of tools for checking disk space utilization in Linux. However, Linux has a strong built in utility called ‘df‘. The ‘df‘ command stand for “disk filesystem“, it is used to get full summary of available and used disk space usage of file system on Linux system.
+
+Using ‘-h‘ parameter with (df -h) will shows the file system disk space statistics in “human readable” format, means it gives the details in bytes, mega bytes and gigabytess
+
+The Linux “du” (Disk Usage) is a standard Unix/Linux command, used to check the information of disk usage of files and directories on a machine. The du command has many parameter options that can be used to get the results in many formats. The du command also displays the files and directory sizes in a recursively manner.
